@@ -1,2 +1,2 @@
-/ip hotspot user add server=all name=test     password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+
 
