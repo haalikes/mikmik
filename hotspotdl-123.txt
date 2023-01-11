@@ -1,4 +1,5 @@
 /ip hotspot user add server=all name=test     password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
 /ip hotspot user add server=all name=a11      password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user remove test
 /ip hotspot user add server=all name=a11      password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
 /ip hotspot user add server=all name=a13      password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
