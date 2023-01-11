@@ -1,0 +1,1019 @@
+do { /ip hotspot user remove 0ao} on-error={}
+do { /ip hotspot user remove 0bB} on-error={}
+do { /ip hotspot user remove 0kX} on-error={}
+do { /ip hotspot user remove 0Ls} on-error={}
+do { /ip hotspot user remove 0px} on-error={}
+do { /ip hotspot user remove 0RC} on-error={}
+do { /ip hotspot user remove 0xj} on-error={}
+do { /ip hotspot user remove 1dZ} on-error={}
+do { /ip hotspot user remove 1ex} on-error={}
+do { /ip hotspot user remove 1Nu} on-error={}
+do { /ip hotspot user remove 20P} on-error={}
+do { /ip hotspot user remove 25L} on-error={}
+do { /ip hotspot user remove 28b} on-error={}
+do { /ip hotspot user remove 2bm} on-error={}
+do { /ip hotspot user remove 2Ib} on-error={}
+do { /ip hotspot user remove 2JN} on-error={}
+do { /ip hotspot user remove 2Rz} on-error={}
+do { /ip hotspot user remove 2vg} on-error={}
+do { /ip hotspot user remove 2xd} on-error={}
+do { /ip hotspot user remove 2Zd} on-error={}
+do { /ip hotspot user remove 335} on-error={}
+do { /ip hotspot user remove 34J} on-error={}
+do { /ip hotspot user remove 37A} on-error={}
+do { /ip hotspot user remove 3aw} on-error={}
+do { /ip hotspot user remove 3ez} on-error={}
+do { /ip hotspot user remove 3tb} on-error={}
+do { /ip hotspot user remove 3uR} on-error={}
+do { /ip hotspot user remove 3UY} on-error={}
+do { /ip hotspot user remove 3wT} on-error={}
+do { /ip hotspot user remove 3Xp} on-error={}
+do { /ip hotspot user remove 4Cp} on-error={}
+do { /ip hotspot user remove 4dA} on-error={}
+do { /ip hotspot user remove 4ft} on-error={}
+do { /ip hotspot user remove 4GH} on-error={}
+do { /ip hotspot user remove 4he} on-error={}
+do { /ip hotspot user remove 4il} on-error={}
+do { /ip hotspot user remove 4mL} on-error={}
+do { /ip hotspot user remove 4nU} on-error={}
+do { /ip hotspot user remove 4Ug} on-error={}
+do { /ip hotspot user remove 4Vu} on-error={}
+do { /ip hotspot user remove 549} on-error={}
+do { /ip hotspot user remove 5Ee} on-error={}
+do { /ip hotspot user remove 5Ji} on-error={}
+do { /ip hotspot user remove 5mT} on-error={}
+do { /ip hotspot user remove 5N5} on-error={}
+do { /ip hotspot user remove 5qQ} on-error={}
+do { /ip hotspot user remove 5SZ} on-error={}
+do { /ip hotspot user remove 5td} on-error={}
+do { /ip hotspot user remove 5tP} on-error={}
+do { /ip hotspot user remove 694} on-error={}
+do { /ip hotspot user remove 6oL} on-error={}
+do { /ip hotspot user remove 6Oq} on-error={}
+do { /ip hotspot user remove 78B} on-error={}
+do { /ip hotspot user remove 79T} on-error={}
+do { /ip hotspot user remove 7a2} on-error={}
+do { /ip hotspot user remove 7C7} on-error={}
+do { /ip hotspot user remove 7FJ} on-error={}
+do { /ip hotspot user remove 7hR} on-error={}
+do { /ip hotspot user remove 7HY} on-error={}
+do { /ip hotspot user remove 7ob} on-error={}
+do { /ip hotspot user remove 7or} on-error={}
+do { /ip hotspot user remove 7Sf} on-error={}
+do { /ip hotspot user remove 7tI} on-error={}
+do { /ip hotspot user remove 7tJ} on-error={}
+do { /ip hotspot user remove 7za} on-error={}
+do { /ip hotspot user remove 832} on-error={}
+do { /ip hotspot user remove 8fA} on-error={}
+do { /ip hotspot user remove 8FS} on-error={}
+do { /ip hotspot user remove 8Mc} on-error={}
+do { /ip hotspot user remove 8RS} on-error={}
+do { /ip hotspot user remove 8Sz} on-error={}
+do { /ip hotspot user remove 8wa} on-error={}
+do { /ip hotspot user remove 8xK} on-error={}
+do { /ip hotspot user remove 8Yx} on-error={}
+do { /ip hotspot user remove 8Zo} on-error={}
+do { /ip hotspot user remove 90y} on-error={}
+do { /ip hotspot user remove 910} on-error={}
+do { /ip hotspot user remove 97s} on-error={}
+do { /ip hotspot user remove 9a4} on-error={}
+do { /ip hotspot user remove 9Db} on-error={}
+do { /ip hotspot user remove 9i4} on-error={}
+do { /ip hotspot user remove 9LS} on-error={}
+do { /ip hotspot user remove 9P1} on-error={}
+do { /ip hotspot user remove 9pb} on-error={}
+do { /ip hotspot user remove 9Zb} on-error={}
+do { /ip hotspot user remove a3I} on-error={}
+do { /ip hotspot user remove A5d} on-error={}
+do { /ip hotspot user remove a7g} on-error={}
+do { /ip hotspot user remove a7u} on-error={}
+do { /ip hotspot user remove aA5} on-error={}
+do { /ip hotspot user remove Aby} on-error={}
+do { /ip hotspot user remove AcB} on-error={}
+do { /ip hotspot user remove AEC} on-error={}
+do { /ip hotspot user remove AGL} on-error={}
+do { /ip hotspot user remove AI6} on-error={}
+do { /ip hotspot user remove Aii} on-error={}
+do { /ip hotspot user remove aJ0} on-error={}
+do { /ip hotspot user remove aML} on-error={}
+do { /ip hotspot user remove anH} on-error={}
+do { /ip hotspot user remove atG} on-error={}
+do { /ip hotspot user remove aX4} on-error={}
+do { /ip hotspot user remove ayE} on-error={}
+do { /ip hotspot user remove B3a} on-error={}
+do { /ip hotspot user remove b9x} on-error={}
+do { /ip hotspot user remove bC8} on-error={}
+do { /ip hotspot user remove bcQ} on-error={}
+do { /ip hotspot user remove BJD} on-error={}
+do { /ip hotspot user remove BTz} on-error={}
+do { /ip hotspot user remove BUA} on-error={}
+do { /ip hotspot user remove bx6} on-error={}
+do { /ip hotspot user remove BXg} on-error={}
+do { /ip hotspot user remove bxt} on-error={}
+do { /ip hotspot user remove bYD} on-error={}
+do { /ip hotspot user remove bYm} on-error={}
+do { /ip hotspot user remove Cai} on-error={}
+do { /ip hotspot user remove ccI} on-error={}
+do { /ip hotspot user remove CDX} on-error={}
+do { /ip hotspot user remove cf1} on-error={}
+do { /ip hotspot user remove CfC} on-error={}
+do { /ip hotspot user remove Cfi} on-error={}
+do { /ip hotspot user remove CKi} on-error={}
+do { /ip hotspot user remove clu} on-error={}
+do { /ip hotspot user remove cUu} on-error={}
+do { /ip hotspot user remove CXL} on-error={}
+do { /ip hotspot user remove Cz7} on-error={}
+do { /ip hotspot user remove Ddg} on-error={}
+do { /ip hotspot user remove dDW} on-error={}
+do { /ip hotspot user remove dEd} on-error={}
+do { /ip hotspot user remove DFQ} on-error={}
+do { /ip hotspot user remove DhH} on-error={}
+do { /ip hotspot user remove DjK} on-error={}
+do { /ip hotspot user remove dnp} on-error={}
+do { /ip hotspot user remove DnR} on-error={}
+do { /ip hotspot user remove dNT} on-error={}
+do { /ip hotspot user remove do4} on-error={}
+do { /ip hotspot user remove dpk} on-error={}
+do { /ip hotspot user remove dPp} on-error={}
+do { /ip hotspot user remove DwV} on-error={}
+do { /ip hotspot user remove dzD} on-error={}
+do { /ip hotspot user remove dZH} on-error={}
+do { /ip hotspot user remove e1c} on-error={}
+do { /ip hotspot user remove e2O} on-error={}
+do { /ip hotspot user remove E3b} on-error={}
+do { /ip hotspot user remove e5e} on-error={}
+do { /ip hotspot user remove e5T} on-error={}
+do { /ip hotspot user remove E7Q} on-error={}
+do { /ip hotspot user remove E87} on-error={}
+do { /ip hotspot user remove Eaw} on-error={}
+do { /ip hotspot user remove eBV} on-error={}
+do { /ip hotspot user remove eiv} on-error={}
+do { /ip hotspot user remove Ekc} on-error={}
+do { /ip hotspot user remove ElM} on-error={}
+do { /ip hotspot user remove EmV} on-error={}
+do { /ip hotspot user remove emW} on-error={}
+do { /ip hotspot user remove EO9} on-error={}
+do { /ip hotspot user remove eOt} on-error={}
+do { /ip hotspot user remove ep6} on-error={}
+do { /ip hotspot user remove EPr} on-error={}
+do { /ip hotspot user remove eQQ} on-error={}
+do { /ip hotspot user remove ERZ} on-error={}
+do { /ip hotspot user remove eUV} on-error={}
+do { /ip hotspot user remove eVk} on-error={}
+do { /ip hotspot user remove EvR} on-error={}
+do { /ip hotspot user remove exe} on-error={}
+do { /ip hotspot user remove eYp} on-error={}
+do { /ip hotspot user remove eYW} on-error={}
+do { /ip hotspot user remove F1n} on-error={}
+do { /ip hotspot user remove FAm} on-error={}
+do { /ip hotspot user remove fbE} on-error={}
+do { /ip hotspot user remove FCZ} on-error={}
+do { /ip hotspot user remove FdQ} on-error={}
+do { /ip hotspot user remove feq} on-error={}
+do { /ip hotspot user remove fJM} on-error={}
+do { /ip hotspot user remove fkB} on-error={}
+do { /ip hotspot user remove fkP} on-error={}
+do { /ip hotspot user remove Fl9} on-error={}
+do { /ip hotspot user remove Flf} on-error={}
+do { /ip hotspot user remove fn9} on-error={}
+do { /ip hotspot user remove Fon} on-error={}
+do { /ip hotspot user remove foV} on-error={}
+do { /ip hotspot user remove FtQ} on-error={}
+do { /ip hotspot user remove Fu6} on-error={}
+do { /ip hotspot user remove fV2} on-error={}
+do { /ip hotspot user remove fyQ} on-error={}
+do { /ip hotspot user remove fZR} on-error={}
+do { /ip hotspot user remove G7R} on-error={}
+do { /ip hotspot user remove G8W} on-error={}
+do { /ip hotspot user remove gbJ} on-error={}
+do { /ip hotspot user remove gCO} on-error={}
+do { /ip hotspot user remove gjR} on-error={}
+do { /ip hotspot user remove GjU} on-error={}
+do { /ip hotspot user remove gnB} on-error={}
+do { /ip hotspot user remove gnd} on-error={}
+do { /ip hotspot user remove gnQ} on-error={}
+do { /ip hotspot user remove GoK} on-error={}
+do { /ip hotspot user remove Gp5} on-error={}
+do { /ip hotspot user remove Gq1} on-error={}
+do { /ip hotspot user remove GQi} on-error={}
+do { /ip hotspot user remove gSR} on-error={}
+do { /ip hotspot user remove gTC} on-error={}
+do { /ip hotspot user remove gUr} on-error={}
+do { /ip hotspot user remove GvR} on-error={}
+do { /ip hotspot user remove gwB} on-error={}
+do { /ip hotspot user remove GX5} on-error={}
+do { /ip hotspot user remove gXT} on-error={}
+do { /ip hotspot user remove gzJ} on-error={}
+do { /ip hotspot user remove h8e} on-error={}
+do { /ip hotspot user remove H9Q} on-error={}
+do { /ip hotspot user remove hAx} on-error={}
+do { /ip hotspot user remove hFj} on-error={}
+do { /ip hotspot user remove Hjz} on-error={}
+do { /ip hotspot user remove ho6} on-error={}
+do { /ip hotspot user remove HUs} on-error={}
+do { /ip hotspot user remove hUY} on-error={}
+do { /ip hotspot user remove hWi} on-error={}
+do { /ip hotspot user remove hXy} on-error={}
+do { /ip hotspot user remove hXZ} on-error={}
+do { /ip hotspot user remove i7p} on-error={}
+do { /ip hotspot user remove I9a} on-error={}
+do { /ip hotspot user remove IA9} on-error={}
+do { /ip hotspot user remove Ic4} on-error={}
+do { /ip hotspot user remove icu} on-error={}
+do { /ip hotspot user remove Iev} on-error={}
+do { /ip hotspot user remove INX} on-error={}
+do { /ip hotspot user remove is4} on-error={}
+do { /ip hotspot user remove ItR} on-error={}
+do { /ip hotspot user remove iu5} on-error={}
+do { /ip hotspot user remove iv8} on-error={}
+do { /ip hotspot user remove IVI} on-error={}
+do { /ip hotspot user remove IWp} on-error={}
+do { /ip hotspot user remove Iyi} on-error={}
+do { /ip hotspot user remove IZq} on-error={}
+do { /ip hotspot user remove j2J} on-error={}
+do { /ip hotspot user remove J3B} on-error={}
+do { /ip hotspot user remove JBn} on-error={}
+do { /ip hotspot user remove jDl} on-error={}
+do { /ip hotspot user remove JeY} on-error={}
+do { /ip hotspot user remove JiK} on-error={}
+do { /ip hotspot user remove jKq} on-error={}
+do { /ip hotspot user remove JLY} on-error={}
+do { /ip hotspot user remove jP9} on-error={}
+do { /ip hotspot user remove jq6} on-error={}
+do { /ip hotspot user remove jRI} on-error={}
+do { /ip hotspot user remove JsL} on-error={}
+do { /ip hotspot user remove jTp} on-error={}
+do { /ip hotspot user remove jy8} on-error={}
+do { /ip hotspot user remove K01} on-error={}
+do { /ip hotspot user remove k1W} on-error={}
+do { /ip hotspot user remove K4O} on-error={}
+do { /ip hotspot user remove K5Y} on-error={}
+do { /ip hotspot user remove K70} on-error={}
+do { /ip hotspot user remove kav} on-error={}
+do { /ip hotspot user remove kBP} on-error={}
+do { /ip hotspot user remove KBr} on-error={}
+do { /ip hotspot user remove keO} on-error={}
+do { /ip hotspot user remove KFN} on-error={}
+do { /ip hotspot user remove KGK} on-error={}
+do { /ip hotspot user remove KnS} on-error={}
+do { /ip hotspot user remove kqo} on-error={}
+do { /ip hotspot user remove kTz} on-error={}
+do { /ip hotspot user remove KXu} on-error={}
+do { /ip hotspot user remove l0p} on-error={}
+do { /ip hotspot user remove L0Y} on-error={}
+do { /ip hotspot user remove l30} on-error={}
+do { /ip hotspot user remove L8r} on-error={}
+do { /ip hotspot user remove LFJ} on-error={}
+do { /ip hotspot user remove LHR} on-error={}
+do { /ip hotspot user remove Ljs} on-error={}
+do { /ip hotspot user remove lmZ} on-error={}
+do { /ip hotspot user remove lOq} on-error={}
+do { /ip hotspot user remove LR4} on-error={}
+do { /ip hotspot user remove lrF} on-error={}
+do { /ip hotspot user remove ls8} on-error={}
+do { /ip hotspot user remove LsP} on-error={}
+do { /ip hotspot user remove LSz} on-error={}
+do { /ip hotspot user remove Ltt} on-error={}
+do { /ip hotspot user remove MeC} on-error={}
+do { /ip hotspot user remove MfB} on-error={}
+do { /ip hotspot user remove mFU} on-error={}
+do { /ip hotspot user remove Mh3} on-error={}
+do { /ip hotspot user remove Mkm} on-error={}
+do { /ip hotspot user remove MKs} on-error={}
+do { /ip hotspot user remove Mls} on-error={}
+do { /ip hotspot user remove mMN} on-error={}
+do { /ip hotspot user remove mOb} on-error={}
+do { /ip hotspot user remove MTb} on-error={}
+do { /ip hotspot user remove mTC} on-error={}
+do { /ip hotspot user remove MuC} on-error={}
+do { /ip hotspot user remove mUu} on-error={}
+do { /ip hotspot user remove mvK} on-error={}
+do { /ip hotspot user remove mww} on-error={}
+do { /ip hotspot user remove mXj} on-error={}
+do { /ip hotspot user remove n6E} on-error={}
+do { /ip hotspot user remove NBP} on-error={}
+do { /ip hotspot user remove NdZ} on-error={}
+do { /ip hotspot user remove NeV} on-error={}
+do { /ip hotspot user remove nhj} on-error={}
+do { /ip hotspot user remove NHv} on-error={}
+do { /ip hotspot user remove Niq} on-error={}
+do { /ip hotspot user remove NjJ} on-error={}
+do { /ip hotspot user remove nk5} on-error={}
+do { /ip hotspot user remove nKK} on-error={}
+do { /ip hotspot user remove nLm} on-error={}
+do { /ip hotspot user remove nmN} on-error={}
+do { /ip hotspot user remove nmZ} on-error={}
+do { /ip hotspot user remove nxu} on-error={}
+do { /ip hotspot user remove O06} on-error={}
+do { /ip hotspot user remove O1q} on-error={}
+do { /ip hotspot user remove o5Q} on-error={}
+do { /ip hotspot user remove ObY} on-error={}
+do { /ip hotspot user remove OEE} on-error={}
+do { /ip hotspot user remove OF2} on-error={}
+do { /ip hotspot user remove OfO} on-error={}
+do { /ip hotspot user remove OG6} on-error={}
+do { /ip hotspot user remove Oiz} on-error={}
+do { /ip hotspot user remove ojZ} on-error={}
+do { /ip hotspot user remove olS} on-error={}
+do { /ip hotspot user remove OOR} on-error={}
+do { /ip hotspot user remove osh} on-error={}
+do { /ip hotspot user remove oUn} on-error={}
+do { /ip hotspot user remove oup} on-error={}
+do { /ip hotspot user remove OwO} on-error={}
+do { /ip hotspot user remove OzC} on-error={}
+do { /ip hotspot user remove p5X} on-error={}
+do { /ip hotspot user remove P5Z} on-error={}
+do { /ip hotspot user remove P8a} on-error={}
+do { /ip hotspot user remove P8s} on-error={}
+do { /ip hotspot user remove pAu} on-error={}
+do { /ip hotspot user remove pbp} on-error={}
+do { /ip hotspot user remove pCI} on-error={}
+do { /ip hotspot user remove pE0} on-error={}
+do { /ip hotspot user remove peR} on-error={}
+do { /ip hotspot user remove pGa} on-error={}
+do { /ip hotspot user remove pGd} on-error={}
+do { /ip hotspot user remove pIf} on-error={}
+do { /ip hotspot user remove PKn} on-error={}
+do { /ip hotspot user remove pkp} on-error={}
+do { /ip hotspot user remove pmW} on-error={}
+do { /ip hotspot user remove ppC} on-error={}
+do { /ip hotspot user remove pPz} on-error={}
+do { /ip hotspot user remove PqQ} on-error={}
+do { /ip hotspot user remove PRD} on-error={}
+do { /ip hotspot user remove Pwg} on-error={}
+do { /ip hotspot user remove PXP} on-error={}
+do { /ip hotspot user remove Q5H} on-error={}
+do { /ip hotspot user remove qC2} on-error={}
+do { /ip hotspot user remove qCl} on-error={}
+do { /ip hotspot user remove Qe3} on-error={}
+do { /ip hotspot user remove qew} on-error={}
+do { /ip hotspot user remove Qfb} on-error={}
+do { /ip hotspot user remove QGr} on-error={}
+do { /ip hotspot user remove qi3} on-error={}
+do { /ip hotspot user remove qTy} on-error={}
+do { /ip hotspot user remove QuA} on-error={}
+do { /ip hotspot user remove QUZ} on-error={}
+do { /ip hotspot user remove qvg} on-error={}
+do { /ip hotspot user remove qXh} on-error={}
+do { /ip hotspot user remove Qzp} on-error={}
+do { /ip hotspot user remove R4k} on-error={}
+do { /ip hotspot user remove r51} on-error={}
+do { /ip hotspot user remove r65} on-error={}
+do { /ip hotspot user remove r9L} on-error={}
+do { /ip hotspot user remove RaT} on-error={}
+do { /ip hotspot user remove Rcx} on-error={}
+do { /ip hotspot user remove rDt} on-error={}
+do { /ip hotspot user remove rF3} on-error={}
+do { /ip hotspot user remove Rtz} on-error={}
+do { /ip hotspot user remove S1R} on-error={}
+do { /ip hotspot user remove S5m} on-error={}
+do { /ip hotspot user remove S5X} on-error={}
+do { /ip hotspot user remove S7u} on-error={}
+do { /ip hotspot user remove s9S} on-error={}
+do { /ip hotspot user remove scr} on-error={}
+do { /ip hotspot user remove SEn} on-error={}
+do { /ip hotspot user remove SEV} on-error={}
+do { /ip hotspot user remove sLt} on-error={}
+do { /ip hotspot user remove SOm} on-error={}
+do { /ip hotspot user remove sQJ} on-error={}
+do { /ip hotspot user remove sR5} on-error={}
+do { /ip hotspot user remove srp} on-error={}
+do { /ip hotspot user remove SSs} on-error={}
+do { /ip hotspot user remove sXX} on-error={}
+do { /ip hotspot user remove szS} on-error={}
+do { /ip hotspot user remove t17} on-error={}
+do { /ip hotspot user remove tcn} on-error={}
+do { /ip hotspot user remove THe} on-error={}
+do { /ip hotspot user remove TkH} on-error={}
+do { /ip hotspot user remove TM7} on-error={}
+do { /ip hotspot user remove tNl} on-error={}
+do { /ip hotspot user remove TRf} on-error={}
+do { /ip hotspot user remove tRz} on-error={}
+do { /ip hotspot user remove TSt} on-error={}
+do { /ip hotspot user remove tVD} on-error={}
+do { /ip hotspot user remove TWD} on-error={}
+do { /ip hotspot user remove u1f} on-error={}
+do { /ip hotspot user remove U5r} on-error={}
+do { /ip hotspot user remove U6N} on-error={}
+do { /ip hotspot user remove u8x} on-error={}
+do { /ip hotspot user remove uEH} on-error={}
+do { /ip hotspot user remove ueu} on-error={}
+do { /ip hotspot user remove ufk} on-error={}
+do { /ip hotspot user remove Ug0} on-error={}
+do { /ip hotspot user remove Uhs} on-error={}
+do { /ip hotspot user remove Ujl} on-error={}
+do { /ip hotspot user remove uKg} on-error={}
+do { /ip hotspot user remove um5} on-error={}
+do { /ip hotspot user remove UOl} on-error={}
+do { /ip hotspot user remove upe} on-error={}
+do { /ip hotspot user remove uRB} on-error={}
+do { /ip hotspot user remove Uyo} on-error={}
+do { /ip hotspot user remove UzI} on-error={}
+do { /ip hotspot user remove uZt} on-error={}
+do { /ip hotspot user remove V9z} on-error={}
+do { /ip hotspot user remove vBi} on-error={}
+do { /ip hotspot user remove VbL} on-error={}
+do { /ip hotspot user remove vbM} on-error={}
+do { /ip hotspot user remove vdM} on-error={}
+do { /ip hotspot user remove VG0} on-error={}
+do { /ip hotspot user remove VKx} on-error={}
+do { /ip hotspot user remove VOh} on-error={}
+do { /ip hotspot user remove VOM} on-error={}
+do { /ip hotspot user remove VQ1} on-error={}
+do { /ip hotspot user remove VSg} on-error={}
+do { /ip hotspot user remove vun} on-error={}
+do { /ip hotspot user remove Vw2} on-error={}
+do { /ip hotspot user remove VWH} on-error={}
+do { /ip hotspot user remove vZP} on-error={}
+do { /ip hotspot user remove VZr} on-error={}
+do { /ip hotspot user remove w0l} on-error={}
+do { /ip hotspot user remove w1M} on-error={}
+do { /ip hotspot user remove W9L} on-error={}
+do { /ip hotspot user remove WBt} on-error={}
+do { /ip hotspot user remove Wc7} on-error={}
+do { /ip hotspot user remove Wca} on-error={}
+do { /ip hotspot user remove WCb} on-error={}
+do { /ip hotspot user remove wcm} on-error={}
+do { /ip hotspot user remove WEA} on-error={}
+do { /ip hotspot user remove wgm} on-error={}
+do { /ip hotspot user remove Wh6} on-error={}
+do { /ip hotspot user remove why} on-error={}
+do { /ip hotspot user remove Wif} on-error={}
+do { /ip hotspot user remove wih} on-error={}
+do { /ip hotspot user remove wjc} on-error={}
+do { /ip hotspot user remove wjd} on-error={}
+do { /ip hotspot user remove WKE} on-error={}
+do { /ip hotspot user remove wLC} on-error={}
+do { /ip hotspot user remove WlD} on-error={}
+do { /ip hotspot user remove wNw} on-error={}
+do { /ip hotspot user remove wP8} on-error={}
+do { /ip hotspot user remove Wpb} on-error={}
+do { /ip hotspot user remove WRt} on-error={}
+do { /ip hotspot user remove WvV} on-error={}
+do { /ip hotspot user remove wyZ} on-error={}
+do { /ip hotspot user remove X20} on-error={}
+do { /ip hotspot user remove xCX} on-error={}
+do { /ip hotspot user remove XDS} on-error={}
+do { /ip hotspot user remove XIP} on-error={}
+do { /ip hotspot user remove XK5} on-error={}
+do { /ip hotspot user remove XKB} on-error={}
+do { /ip hotspot user remove XMo} on-error={}
+do { /ip hotspot user remove Xn0} on-error={}
+do { /ip hotspot user remove Xpn} on-error={}
+do { /ip hotspot user remove Xq5} on-error={}
+do { /ip hotspot user remove xrQ} on-error={}
+do { /ip hotspot user remove xUz} on-error={}
+do { /ip hotspot user remove xVg} on-error={}
+do { /ip hotspot user remove Xxs} on-error={}
+do { /ip hotspot user remove Y2P} on-error={}
+do { /ip hotspot user remove Y5H} on-error={}
+do { /ip hotspot user remove y6v} on-error={}
+do { /ip hotspot user remove yba} on-error={}
+do { /ip hotspot user remove yCd} on-error={}
+do { /ip hotspot user remove YGW} on-error={}
+do { /ip hotspot user remove YiD} on-error={}
+do { /ip hotspot user remove YIX} on-error={}
+do { /ip hotspot user remove YIy} on-error={}
+do { /ip hotspot user remove yN4} on-error={}
+do { /ip hotspot user remove yNG} on-error={}
+do { /ip hotspot user remove YNO} on-error={}
+do { /ip hotspot user remove yOL} on-error={}
+do { /ip hotspot user remove YQO} on-error={}
+do { /ip hotspot user remove YtQ} on-error={}
+do { /ip hotspot user remove yvy} on-error={}
+do { /ip hotspot user remove yyg} on-error={}
+do { /ip hotspot user remove yYo} on-error={}
+do { /ip hotspot user remove z2Q} on-error={}
+do { /ip hotspot user remove z33} on-error={}
+do { /ip hotspot user remove Z6E} on-error={}
+do { /ip hotspot user remove z6Q} on-error={}
+do { /ip hotspot user remove z7D} on-error={}
+do { /ip hotspot user remove z8a} on-error={}
+do { /ip hotspot user remove Zax} on-error={}
+do { /ip hotspot user remove zcc} on-error={}
+do { /ip hotspot user remove ZhE} on-error={}
+do { /ip hotspot user remove zjX} on-error={}
+do { /ip hotspot user remove zKx} on-error={}
+do { /ip hotspot user remove ZLF} on-error={}
+do { /ip hotspot user remove ZlQ} on-error={}
+do { /ip hotspot user remove zqn} on-error={}
+do { /ip hotspot user remove ZQP} on-error={}
+do { /ip hotspot user remove ZQw} on-error={}
+do { /ip hotspot user remove ZRy} on-error={}
+do { /ip hotspot user remove zXn} on-error={}
+do { /ip hotspot user remove zyK} on-error={}
+do { /ip hotspot user remove ZZc} on-error={}
+do { /ip hotspot user remove TXQC} on-error={}
+do { /ip hotspot user remove QywQ} on-error={}
+do { /ip hotspot user remove MYP5} on-error={}
+do { /ip hotspot user remove 8kA4} on-error={}
+
+/ip hotspot user add server=all name=0ao password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=0bB password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=0kX password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=0Ls password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=0px password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=0RC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=0xj password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=1dZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=1ex password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=1Nu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=20P password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=25L password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=28b password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=2bm password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=2Ib password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=2JN password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=2Rz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=2vg password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=2xd password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=2Zd password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=335 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=34J password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=37A password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=3aw password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=3ez password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=3tb password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=3uR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=3UY password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=3wT password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=3Xp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4Cp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4dA password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4ft password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4GH password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4he password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4il password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4mL password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4nU password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4Ug password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=4Vu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=549 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=5Ee password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=5Ji password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=5mT password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=5N5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=5qQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=5SZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=5td password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=5tP password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=694 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=6oL password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=6Oq password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=78B password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=79T password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7a2 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7C7 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7FJ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7hR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7HY password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7ob password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7or password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7Sf password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7tI password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7tJ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=7za password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=832 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8fA password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8FS password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8Mc password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8RS password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8Sz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8wa password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8xK password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8Yx password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8Zo password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=90y password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=910 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=97s password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=9a4 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=9Db password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=9i4 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=9LS password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=9P1 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=9pb password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=9Zb password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=a3I password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=A5d password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=a7g password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=a7u password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=aA5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Aby password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=AcB password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=AEC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=AGL password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=AI6 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Aii password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=aJ0 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=aML password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=anH password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=atG password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=aX4 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ayE password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=B3a password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=b9x password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=bC8 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=bcQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=BJD password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=BTz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=BUA password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=bx6 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=BXg password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=bxt password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=bYD password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=bYm password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Cai password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ccI password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=CDX password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=cf1 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=CfC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Cfi password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=CKi password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=clu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=cUu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=CXL password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Cz7 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Ddg password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=dDW password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=dEd password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=DFQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=DhH password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=DjK password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=dnp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=DnR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=dNT password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=do4 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=dpk password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=dPp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=DwV password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=dzD password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=dZH password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=e1c password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=e2O password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=E3b password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=e5e password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=e5T password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=E7Q password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=E87 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Eaw password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=eBV password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=eiv password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Ekc password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ElM password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=EmV password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=emW password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=EO9 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=eOt password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ep6 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=EPr password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=eQQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ERZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=eUV password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=eVk password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=EvR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=exe password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=eYp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=eYW password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=F1n password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=FAm password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=fbE password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=FCZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=FdQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=feq password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=fJM password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=fkB password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=fkP password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Fl9 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Flf password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=fn9 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Fon password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=foV password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=FtQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Fu6 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=fV2 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=fyQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=fZR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=G7R password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=G8W password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gbJ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gCO password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gjR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=GjU password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gnB password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gnd password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gnQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=GoK password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Gp5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Gq1 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=GQi password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gSR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gTC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gUr password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=GvR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gwB password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=GX5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gXT password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=gzJ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=h8e password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=H9Q password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=hAx password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=hFj password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Hjz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ho6 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=HUs password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=hUY password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=hWi password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=hXy password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=hXZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=i7p password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=I9a password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=IA9 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Ic4 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=icu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Iev password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=INX password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=is4 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ItR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=iu5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=iv8 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=IVI password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=IWp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Iyi password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=IZq password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=j2J password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=J3B password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=JBn password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=jDl password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=JeY password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=JiK password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=jKq password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=JLY password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=jP9 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=jq6 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=jRI password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=JsL password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=jTp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=jy8 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=K01 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=k1W password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=K4O password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=K5Y password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=K70 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=kav password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=kBP password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=KBr password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=keO password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=KFN password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=KGK password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=KnS password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=kqo password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=kTz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=KXu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=l0p password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=L0Y password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=l30 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=L8r password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=LFJ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=LHR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Ljs password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=lmZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=lOq password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=LR4 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=lrF password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ls8 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=LsP password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=LSz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Ltt password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=MeC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=MfB password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=mFU password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Mh3 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Mkm password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=MKs password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Mls password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=mMN password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=mOb password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=MTb password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=mTC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=MuC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=mUu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=mvK password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=mww password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=mXj password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=n6E password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=NBP password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=NdZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=NeV password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=nhj password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=NHv password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Niq password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=NjJ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=nk5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=nKK password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=nLm password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=nmN password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=nmZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=nxu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=O06 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=O1q password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=o5Q password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ObY password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=OEE password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=OF2 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=OfO password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=OG6 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Oiz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ojZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=olS password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=OOR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=osh password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=oUn password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=oup password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=OwO password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=OzC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=p5X password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=P5Z password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=P8a password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=P8s password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pAu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pbp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pCI password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pE0 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=peR password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pGa password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pGd password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pIf password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=PKn password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pkp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pmW password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ppC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=pPz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=PqQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=PRD password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Pwg password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=PXP password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Q5H password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=qC2 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=qCl password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Qe3 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=qew password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Qfb password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=QGr password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=qi3 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=qTy password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=QuA password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=QUZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=qvg password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=qXh password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Qzp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=R4k password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=r51 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=r65 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=r9L password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=RaT password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Rcx password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=rDt password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=rF3 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Rtz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=S1R password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=S5m password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=S5X password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=S7u password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=s9S password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=scr password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=SEn password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=SEV password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=sLt password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=SOm password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=sQJ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=sR5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=srp password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=SSs password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=sXX password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=szS password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=t17 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=tcn password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=THe password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=TkH password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=TM7 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=tNl password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=TRf password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=tRz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=TSt password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=tVD password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=TWD password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=u1f password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=U5r password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=U6N password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=u8x password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=uEH password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ueu password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ufk password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Ug0 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Uhs password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Ujl password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=uKg password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=um5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=UOl password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=upe password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=uRB password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Uyo password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=UzI password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=uZt password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=V9z password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=vBi password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=VbL password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=vbM password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=vdM password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=VG0 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=VKx password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=VOh password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=VOM password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=VQ1 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=VSg password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=vun password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Vw2 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=VWH password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=vZP password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=VZr password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=w0l password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=w1M password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=W9L password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=WBt password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Wc7 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Wca password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=WCb password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=wcm password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=WEA password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=wgm password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Wh6 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=why password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Wif password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=wih password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=wjc password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=wjd password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=WKE password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=wLC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=WlD password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=wNw password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=wP8 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Wpb password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=WRt password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=WvV password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=wyZ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=X20 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=xCX password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=XDS password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=XIP password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=XK5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=XKB password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=XMo password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Xn0 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Xpn password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Xq5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=xrQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=xUz password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=xVg password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Xxs password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Y2P password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Y5H password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=y6v password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=yba password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=yCd password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=YGW password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=YiD password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=YIX password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=YIy password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=yN4 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=yNG password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=YNO password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=yOL password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=YQO password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=YtQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=yvy password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=yyg password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=yYo password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=z2Q password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=z33 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Z6E password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=z6Q password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=z7D password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=z8a password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=Zax password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=zcc password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ZhE password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=zjX password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=zKx password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ZLF password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ZlQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=zqn password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ZQP password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ZQw password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ZRy password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=zXn password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=zyK password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=ZZc password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=TXQC password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=QywQ password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=MYP5 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
+/ip hotspot user add server=all name=8kA4 password=XwEcVrTbNyUm1_0 profile=PisoWifi limit-uptime=04:00:00
